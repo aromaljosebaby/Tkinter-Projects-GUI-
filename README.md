@@ -1,2 +1,4 @@
 # Tkinter-Projects-GUI-
-Python 3.7
+
+This repository is basically a collection of programs in which Tkinter library of python is 
+used to create some GUIs.
